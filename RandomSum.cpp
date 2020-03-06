@@ -1,12 +1,3 @@
-// Author: Wes Kendall
-// Copyright 2013 www.mpitutorial.com
-// This code is provided freely with the tutorials on mpitutorial.com. Feel
-// free to modify it for your own use. Any distribution of the code must
-// either provide a link to www.mpitutorial.com or keep this header intact.
-//
-// Program that computes the average of an array of elements in parallel using
-// MPI_Reduce.
-//
 #include <stdio.h>
 #include <stdlib.h>
 #include <mpi.h>
